@@ -7,9 +7,9 @@ import { ACCESS_CODES, IS_IN_DOCKER } from "./api/access";
 
 let COMMIT_ID: string | undefined;
 
-const TITLE = process.env.NEXT_PUBLIC_TITLE ?? "Jarvis";
+const TITLE = process.env.NEXT_PUBLIC_TITLE ?? "K-Chat";
 const DESCRIPTION =
-  process.env.NEXT_PUBLIC_SUBTITLE ?? "Using GPT-4 Azure Open AI Service.";
+  process.env.NEXT_PUBLIC_SUBTITLE ?? "Kingold Azure GPT-4 Service";
 
 // try {
 //   COMMIT_ID = process
